@@ -1,0 +1,83 @@
+/* Extended Classes
+    classes not available in the docs for usage
+ */
+
+.uk-text-white {
+  color: white !important;
+}
+
+.uk-text-black {
+  color: black !important;
+}
+
+.uk-text-green {
+  color: #29ab87 !important;
+}
+
+.uk-button-green {
+  background-color: #29ab87 !important;
+}
+
+/* Backgrounds */
+
+.uk-bg-img-header {
+  background-image: url("../images/AdobeStock_114952753.jpeg");
+}
+
+.uk-bg-img-header2 {
+  background-image: url("../images/AdobeStock_249912030.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+.uk-bg-blue {
+  background-color: darkblue;
+}
+.uk-bg-green {
+  background-color: #29ab87 !important;
+}
+.uk-bg-black {
+  background-color: #000 !important;
+}
+
+.uk-bg-white {
+  background-color: #fff;
+}
+
+.uk-bg-rounded {
+  background-color: #29ab87;
+  width: 100%;
+  border-radius: 40px 40px 0px 0;
+  height: 40px;
+}
+/* Heights */
+
+.uk-height-624 {
+  max-height: 624px !important;
+}
+
+/* gap */
+.uk-gap-20 {
+  gap: 20px !important;
+}
+
+/* Radius */
+.uk-radius-rounded {
+  border-radius: 50px;
+}
+
+.uk-radius-rounded-20 {
+  border-radius: 20px !important;
+}
+
+/* Text */
+.uk-text-larger {
+  font-size: 50px !important;
+}
+
+/* border */
+
+.uk-border-top {
+  border-top: 1px solid grey;
+  padding: 10px 0 0 0;
+}
